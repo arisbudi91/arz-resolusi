@@ -8,4 +8,7 @@ RENCANA KONTEN
  *Grid
 -Javascript
  *Dasar
+ *Angular
+ *React
 -PHP
+ *Laravel
