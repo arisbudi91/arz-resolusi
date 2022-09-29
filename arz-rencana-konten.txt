@@ -7,4 +7,5 @@ RENCANA KONTEN
  *Flex Box
  *Grid
 -Javascript
+ *Dasar
 -PHP
