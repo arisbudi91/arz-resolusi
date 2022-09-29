@@ -1,3 +1,5 @@
 ARZ-RESOLUSI
 -konsisten belajar Web Programming
 -lebih sering belajar pemrograman
+-membuat software house
+-membuat vlogs tentang pemrograman
