@@ -1,5 +1,7 @@
 RENCANA KONTEN
 
 -HTML
+  *Dasar Pemrograman
+  *HTML 5
 -CSS
 -Javascript
