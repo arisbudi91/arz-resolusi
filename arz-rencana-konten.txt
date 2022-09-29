@@ -3,6 +3,8 @@ RENCANA KONTEN
 -HTML
   *Dasar Pemrograman
   *HTML 5
--CSS
 -Javascript
+ *Angular
+ *React
 -PHP
+ *Laravel
