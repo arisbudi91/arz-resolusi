@@ -4,5 +4,8 @@ RENCANA KONTEN
   *Dasar Pemrograman
   *HTML 5
 -CSS
+ *Flex Box
+ *Grid
 -Javascript
+ *Dasar
 -PHP
