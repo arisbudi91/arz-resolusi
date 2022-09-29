@@ -3,3 +3,4 @@ ARZ-RESOLUSI
 -lebih sering belajar pemrograman
 -membuat software house
 -membuat vlogs tentang pemrograman
+-membentuk team untuk pemrograman
